@@ -1,0 +1,1 @@
+mongod --dbpath /Users/jonguklee/dev/mongodb/data --logpath /Users/jonguklee/dev/mongodb/logs/mongo.log
